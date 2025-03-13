@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+  margin: 0%;
+  padding: 0%;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header{
+  padding: 0.5rem;
+  background-image: url(public/header.jpg);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-header{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10%;
+  margin-left: 2%;
+}
+
+.nowrap{
+  white-space: nowrap;
+}
+
+.right-header{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10%;
+  margin-right: 2%;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+}
+
+.main{
+  padding: 21rem;
+  background: url(public/pokemon-3840x2160.jpg) center/cover, rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.info-container{
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  padding-top: 15rem;
+  margin-top: -20%;
+  border: solid black 3px;
+  border-radius: 10px;
+}
