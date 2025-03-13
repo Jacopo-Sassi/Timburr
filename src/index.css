@@ -56,7 +56,6 @@ header{
   display: flex;
   flex-direction: column;
   padding: 2rem;
-  padding-top: 15rem;
   margin-top: -20%;
   border: solid black 3px;
   border-radius: 10px;
