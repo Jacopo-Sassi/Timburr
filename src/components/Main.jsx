@@ -10,7 +10,7 @@ function Main () {
                 <p>Timburr is usually found near construction sites, helping construction workers. It loves helping in construction so much that if rain causes work to cease, it will throw a tantrum while swinging its log. </p>
                 <h5>Evolution</h5>
                 <p>Timburr evolves into Gurdurr, which evolves into Conkeldurr.</p>
-                <p>(For specifics on this Pokémon's Evolution in the games, refer to Game data→Evolution data.)</p>
+                <p>(For specifics on this Pokémon's Evolution in the games, refer to Game data → Evolution data.)</p>
                 <div className="evolution-container">
                     <div className="evolution">
                         <div className="evolution-image">
@@ -18,10 +18,10 @@ function Main () {
                         </div>
                         <p className="center">Unevolved</p>
                         <div className="evolution-name">
-                            <h6 className="center">Timburr</h6>
+                            <h4 className="center">Timburr</h4>
                         </div>
                         <div className="type">
-                            <p className="center">Fighting</p>
+                            <p className="center tag">Fighting</p>
                         </div>
                     </div>
                     <div className="evolution">
@@ -30,10 +30,10 @@ function Main () {
                         </div>
                         <p className="center">First Evolution</p>
                         <div className="evolution-name">
-                            <h6 className="center">Gurdurr</h6>
+                            <h4 className="center">Gurdurr</h4>
                         </div>
                         <div className="type">
-                            <p className="center">Fighting</p>
+                            <p className="center tag">Fighting</p>
                         </div>
                     </div>
                     <div className="evolution">
@@ -42,10 +42,10 @@ function Main () {
                         </div>
                         <p className="center">Second Evolution</p>
                         <div className="evolution-name">
-                            <h6 className="center">Conkeldurr</h6>
+                            <h4 className="center">Conkeldurr</h4>
                         </div>
                         <div className="type">
-                            <p className="center">Fighting</p>
+                            <p className="center tag">Fighting</p>
                         </div>
                     </div>
                 </div>
