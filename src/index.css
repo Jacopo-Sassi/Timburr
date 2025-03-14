@@ -59,4 +59,39 @@ header{
   margin-top: -20%;
   border: solid black 3px;
   border-radius: 10px;
+  align-content: center;
+  justify-content: center;
+}
+
+.evolution-container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 10%;
+  padding: 0.5rem;
+  background-color: rgb(234, 137, 11);
+  border-radius: 10px;
+  border: solid black 3px;
+}
+
+.evolution{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.evolution-image{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  border: solid black 2px;
+  border-radius: 50%;
+  padding: 1rem;
+  background-color: rgb(128, 128, 128, 0.4);
+}
+
+.center{
+  text-align: center;
 }
