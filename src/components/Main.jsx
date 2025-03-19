@@ -49,6 +49,8 @@ function Main () {
                         </div>
                     </div>
                 </div>
+                <h5>NPC appearances</h5>
+                <p>Pokémon Mystery Dungeon: Gates to Infinity: The Timburr Brothers are major characters in the game. Working for Gurdurr, they help to convince him to return being a carpenter and build a house for the player. They can also help the player and partner in developing Pokémon Paradise.</p>
             </div>
         </div>
     )
