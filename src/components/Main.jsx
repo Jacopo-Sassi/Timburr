@@ -51,6 +51,29 @@ function Main () {
                 </div>
                 <h5>NPC appearances</h5>
                 <p>Pokémon Mystery Dungeon: Gates to Infinity: The Timburr Brothers are major characters in the game. Working for Gurdurr, they help to convince him to return being a carpenter and build a house for the player. They can also help the player and partner in developing Pokémon Paradise.</p>
+                <div className="sprite-container">
+                    <div className="sprite">
+                        <h4 className="center title-timburr">Timburr</h4>
+                        <a href="https://pokemondb.net/pokedex/timburr"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/timburr.gif" alt="Timburr" className="timburr-sprite"></img></a>
+                        <a href="https://pokemondb.net/pokedex/timburr"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/timburr.gif" alt="Timburr"></img></a>
+                    </div>
+                    <div className="sprite">
+                        <h4 className="center title-gurdurr">Gurdurr</h4>
+                        <a href="https://pokemondb.net/pokedex/gurdurr"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gurdurr.gif" alt="Gurdurr" className="gurdurr-sprite"></img></a>
+                        <a href="https://pokemondb.net/pokedex/gurdurr"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/gurdurr.gif" alt="Gurdurr"></img></a>
+                    </div>
+                    <div className="sprite">
+                        <h4 className="center title-conkeldurr">Conkeldurr</h4>
+                        <a href="https://pokemondb.net/pokedex/conkeldurr"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/conkeldurr.gif" alt="Conkeldurr" className="conkeldurr-sprite"></img></a>
+                        <a href="https://pokemondb.net/pokedex/conkeldurr"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/conkeldurr.gif" alt="Conkeldurr" className="conkeldurr-back-sprite"></img></a>
+                    </div>
+                </div>
+                <h5>Major appearances</h5>
+                <p>Timburr debuted in Ash and Trip's Third Battle!, under the ownership of Trip. It was used in a battle against Ash, where it went up against Oshawott and was defeated by it. It was later revealed to have evolved into a Gurdurr in Cilan Versus Trip, Ash Versus Georgia!. In The Clubsplosion Begins!, it was revealed to have evolved into a Conkeldurr.
+                    In The Mighty Accelguard to the Rescue!, Linda's Timburr was used to help its Trainer fight crime in Driftveil City.</p>
+                <p>In Ash and N: A Clash of Ideals!, Team Plasma and the Awakening Ceremony!, and What Lies Beyond Truth and Ideals!, Cedric Juniper's assistants used multiple Timburr at the White Ruins, but all of them were later turned against their owners by Colress. They were eventually freed when Pikachu and Reshiram destroyed Colress's mind-control device.</p>
+                <p>In Charge! Galar Mine!, a Timburr was hiding in the Galar Mine, along with a Woobat and a Roggenrola.</p>
+                <img src="./public/Timburr_anime.png" alt="Timburr" className="anime-image"/>
             </div>
         </div>
     )

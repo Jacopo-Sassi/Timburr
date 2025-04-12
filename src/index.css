@@ -124,4 +124,40 @@ header{
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.title-timburr{
+  position: relative;
+  top: -6%;
+}
+
+.title-gurdurr{
+  position: relative;
+  top: -5.5%;
+}
+.title-conkeldurr{
+  position: relative;
+  top: -10.5%;
+}
+
+.gurdurr-sprite{
+  position: relative;
+  top: -10%;
+}
+.conkeldurr-sprite{
+  position: relative;
+  top: -10%;
+}
+
+.conkeldurr-back-sprite{
+  position: relative;
+  top: 15%;
+}
+
+.anime-image{
+  border-radius: 1%;
+  border: solid black 2px;
+  margin-top: 3%;
 }
