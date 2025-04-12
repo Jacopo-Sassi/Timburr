@@ -75,6 +75,10 @@ function Main () {
                 <p>In Charge! Galar Mine!, a Timburr was hiding in the Galar Mine, along with a Woobat and a Roggenrola.</p>
                 <img src="./public/Timburr_anime.png" alt="Timburr" className="anime-image"/>
             </div>
+            <div className="footer-container">
+                <p className="footer">Pokémon is a registered trademark of Nintendo. This website is not affiliated with Nintendo or The Pokémon Company.</p>
+                <p className="footer">© 2023 Pokémon. All rights reserved.</p>
+            </div>
         </div>
     )
 }
